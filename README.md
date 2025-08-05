@@ -1,6 +1,6 @@
 # Sean Maina Irungu - Portfolio Website
 
-![Portfolio Screenshot](https://via.placeholder.com/800x400.png?text=Portfolio+Screenshot)
+![Portfolio URL(https://github.com/s3aN-Szn/Portifolio-Sean-Maina.git)
 
 A responsive portfolio website showcasing my skills, projects, and contact information as a front-end developer.
 
